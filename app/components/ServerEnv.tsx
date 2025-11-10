@@ -27,10 +27,7 @@ export default async function ServerEnv() {
 					<span className="text-blue-500">{serverSecret}</span>{' '}
 				</p>
 			
-				<p>
-					(Edit <code>/app/config/runtime.json</code> inside the container and
-					refresh.)
-				</p>
+	
 			</div>
 		</>
 	);
