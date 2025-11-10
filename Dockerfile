@@ -28,5 +28,4 @@
   
   
   CMD ["npm", "run", "start"]
-  how to pass env variables to the container at runtime?
-  ans is use --build-arg to pass env variables to the container at runtime.
+  
